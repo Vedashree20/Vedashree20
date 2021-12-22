@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedashree20
-- 👀 I’m interested in computer vision,machine learning,web development and all things technology!
-- 🌱 I’m currently learning cybersecurity and back end development!
+- 👀 I’m interested in computer vision,machine learning,web development,data science and all things technology!
+- 🌱 I’m currently learning data science and machine learning!
 - 💞️ I’m looking to collaborate on a number of interesting technical projects!
 - 📫 How to reach me ...@email id-vedashreejoshi20@gmail.com
 
